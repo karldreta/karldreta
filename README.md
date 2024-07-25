@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm @karlDreta</h1>
+<h1 align="center">Hi, name's @karlDreta. 😎</h1>
 <h3 align="center">"Seeker of Knowledge, Explorer of Ideas, and Navigator of My Own Journey"</h3>
 <br>
 <div align="center";">
   <a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="auto" alt="Knowledge GIF" />
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="550" height="180" alt="Knowledge GIF" />
   </a>
 </div>
 <br>
 <p align="left">
-  👀 Constantly learning and applying new technologies.<br>
-  🌱 Studying HTML, CSS, and JavaScript through <a href="https://www.theodinproject.com/" target="_blank" rel="noreferrer">The Odin Project</a>, focusing on becoming a Fullstack developer.<br>
-  🚀 Driven to create innovative solutions and unlock new opportunities.<br>
-  💡 Embracing complex problems as opportunities for growth and learning.<br>
-  🌟 Eager to contribute to impactful projects and collaborate with other passionate developers.
+  👀 Ever in pursuit of new arts and technologies.<br>
+  🌱 Engaged in the study of HTML, CSS, and JavaScript through <a href="https://www.theodinproject.com/" target="_blank" rel="noreferrer">The Odin Project</a>, with the quest to become a master Fullstack developer.<br>
+  🚀 Driven by the desire to forge innovative solutions.<br>
+  💡 Viewing complex challenges as paths to growth.<br>
+  🌟 Eager to lend my skills to noble and impactful endeavors.
 </p>
+
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
