@@ -3,7 +3,7 @@
 <br>
 <div align="center";">
   <a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480" height="360" alt="Knowledge GIF" />
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="auto" alt="Knowledge GIF" />
   </a>
 </div>
 <br>
