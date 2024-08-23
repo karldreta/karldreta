@@ -8,13 +8,12 @@
 </div>
 <br>
 <p align="left">
+  🌱 Independent Scholar at <a href="https://www.theodinproject.com/" target="_blank" rel="noreferrer">The Odin Project</a>.<br>
   👀 Ever in pursuit of new arts and technologies.<br>
-  🌱 Studying HTML, CSS, and JavaScript through <a href="https://www.theodinproject.com/" target="_blank" rel="noreferrer">The Odin Project</a>, with the quest to become a master Fullstack developer.<br>
   🚀 Driven by the desire to forge innovative solutions.<br>
   💡 Viewing complex challenges as paths to growth.<br>
   🌟 Eager to lend my skills to noble endeavors.
 </p>
-<br>
 <h3 align="left">Arsenal:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
