@@ -17,6 +17,6 @@
 <h3 align="left">Arsenal:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,linux,webpack,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,linux,webpack,npm,vscode" />
   </a>
 </p>
